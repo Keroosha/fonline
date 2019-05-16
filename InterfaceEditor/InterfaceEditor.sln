@@ -1,19 +1,34 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEditor", "InterfaceEditor.csproj", "{65682F8E-0D4A-44A0-8C96-031628CF33BA}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceEditor", "InterfaceEditor.csproj", "{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{65682F8E-0D4A-44A0-8C96-031628CF33BA}.Release|x86.ActiveCfg = Release|x86
-		{65682F8E-0D4A-44A0-8C96-031628CF33BA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Debug|x64.Build.0 = Debug|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Debug|x86.Build.0 = Debug|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Release|x64.ActiveCfg = Release|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Release|x64.Build.0 = Release|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Release|x86.ActiveCfg = Release|Any CPU
+		{C9BD0DF7-683C-4C33-AD57-B41E7E1F068E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
